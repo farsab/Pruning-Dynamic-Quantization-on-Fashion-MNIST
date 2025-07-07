@@ -1,0 +1,1 @@
+# Pruning-Dynamic-Quantization-on-Fashion-MNIST
